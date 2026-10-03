@@ -1,0 +1,4 @@
+{"id":"refund","tenant":"demo","question":"refund receipt","relevant_sources":["refund-policy"],"expect_abstain":false}
+{"id":"delivery","tenant":"demo","question":"delivery","relevant_sources":["delivery-policy"],"expect_abstain":false}
+{"id":"unknown","tenant":"demo","question":"astronomy quantum","relevant_sources":[],"expect_abstain":true}
+{"id":"isolation","tenant":"missing-tenant","question":"refund","relevant_sources":[],"expect_abstain":true}

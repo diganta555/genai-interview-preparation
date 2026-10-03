@@ -1,0 +1,154 @@
+[
+  {
+    "example": "agent",
+    "passed": true
+  },
+  {
+    "example": "async_batch",
+    "passed": true
+  },
+  {
+    "example": "attention",
+    "passed": true
+  },
+  {
+    "example": "capacity",
+    "passed": true
+  },
+  {
+    "example": "coding",
+    "passed": true
+  },
+  {
+    "example": "cost",
+    "passed": true
+  },
+  {
+    "example": "dataset",
+    "passed": true
+  },
+  {
+    "example": "debug",
+    "passed": true
+  },
+  {
+    "example": "deployment_check",
+    "passed": true
+  },
+  {
+    "example": "evaluate",
+    "passed": true
+  },
+  {
+    "example": "gradient",
+    "passed": true
+  },
+  {
+    "example": "hybrid",
+    "passed": true
+  },
+  {
+    "example": "memory",
+    "passed": true
+  },
+  {
+    "example": "metrics",
+    "passed": true
+  },
+  {
+    "example": "multi_agent",
+    "passed": true
+  },
+  {
+    "example": "portfolio",
+    "passed": true
+  },
+  {
+    "example": "prompts",
+    "passed": true
+  },
+  {
+    "example": "rag",
+    "passed": true
+  },
+  {
+    "example": "reliability",
+    "passed": true
+  },
+  {
+    "example": "router",
+    "passed": true
+  },
+  {
+    "example": "security",
+    "passed": true
+  },
+  {
+    "example": "sql",
+    "passed": true
+  },
+  {
+    "example": "tool_loop",
+    "passed": true
+  },
+  {
+    "example": "tools",
+    "passed": true
+  },
+  {
+    "example": "trace",
+    "passed": true
+  },
+  {
+    "example": "vector_crud",
+    "passed": true
+  },
+  {
+    "example": "vectors",
+    "passed": true
+  },
+  {
+    "project": "01-rag",
+    "passed": true
+  },
+  {
+    "project": "02-customer-support-agent",
+    "passed": true
+  },
+  {
+    "project": "03-research-agent",
+    "passed": true
+  },
+  {
+    "project": "04-sql-agent",
+    "passed": true
+  },
+  {
+    "project": "05-document-intelligence",
+    "passed": true
+  },
+  {
+    "project": "06-ai-qbank",
+    "passed": true
+  },
+  {
+    "project": "07-llm-evaluation",
+    "passed": true
+  },
+  {
+    "project": "08-multi-agent",
+    "passed": true
+  },
+  {
+    "project": "09-enterprise-rag",
+    "passed": true
+  },
+  {
+    "project": "10-cost-router",
+    "passed": true
+  },
+  {
+    "mock_cli": true,
+    "passed": true
+  }
+]
